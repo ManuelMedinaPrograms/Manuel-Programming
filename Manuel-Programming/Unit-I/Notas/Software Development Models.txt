@@ -1,0 +1,63 @@
+TODOS USAN EL SDLC PEROP DE DIFERENTE MODO POR SER "MODELOS"
+
+CATEGORÍAS
+PREDICTIVE MODEL
+Ver el futuro*
+Se selecciona a un equipo con experiencia necesaria para desarrollar el trabajo (desarrollo de apps, etc...).
+Analogía: Quieres construir un muro. En base a tu experiencia lo vas a construir porque ya sabes el costo de los materiales, la altura, etc...
+En un modelo puro no se pueden  SALTAR stages.
+
+
+	PREDICTIVE MODEL SUCCESS INDICATOR
+	- Desarrolladores tienen que tener una visión clara/realista de su proyecto.
+	- No se pueden cambiar los modelos, todo ya está definido.
+	- ERxperienced team, realistas y también que sepan QUÉ SOFTWARE va a ser utilizado.
+
+	Ventajas
+	Mejor documentación (tickets, diseño, páginas) - Project managers
+	Estabilidad. Buena definición, adiós bugs.
+	Arreglo de bugs tempranos. 
+
+	Desventajas
+	No es flexible, si algo no sale bien se tiraría a al basura prácticamente.
+	El cliente no tiene su aplicación hasta que no se completen todos los tests.
+	Para definir el proyecto se debe estar concentrado y darle muchas vueltas al trabajo (después, se comienza con el código).
+
+
+ADAPTIVE MODEL
+Cambia las metas del proyecto durante su realización (si es necesario) - Afinación del proyecto
+Analogía: Un detective tiene que encontrar al asesino. Con el tiempo descubre pistas con el que redirecciona sus objetivos. Revisa llamadas e interroga personas hasta llegar a dar con el perpetrador.
+
+
+
+
+ADAPTIVE - AGILE (Se puede entregar5 un trabajo no finalizado/Se puede entregar un producto de valor mínimo)
+SPRINT PLANNING
+Juntas donde los diseñadores y desarrolladores discuten los avances y obstáculos que tienen en la realización del proyecto.
+
+DAILY SCRUM
+Una persona designada a revisar y agilizar el trabajo que estás realizando.
+
+SPRINT ACCEPTANCE
+
+
+PREDICTIVE - WATERFALL (El trabajo entregado debe estar terminado en cada detalle)/PURO
+Ejemplificación de lo comentado en el PREDICTIVE MODEL.
+¡NO SE SALTAN STAGES! 
+¿Incremental Waterfall? / Variante
+
+	WATERFALL WITH FEEDBACK - No puro
+	Se puede volver en stages para testear y optimizar el programa. 
+
+SASHIMI MODEL
+El trabajo de equipo no necesita estar atado a la finalización de cada una de las partes (Los diseñadores pueden trabajar mientras el Project manager habla con los programadores y así...).
+Se pueden enfocar a los expertos a las áreas que dominan. Si no se llega a un acuerdo el trabajo puede ir a la basura :(.
+Gasto de recursos con poca pérdida de tiempo.
+
+	Ventajas
+	Enfocan a los especialistas en diferentes áreas (pueden ser sus áreas fuertes)
+	Profundizar el programa.	
+
+B Model --> Más variantes de modelos predictivos.
+
+HOMEWORK! MAPA CONCEPTUAL sobre los modelos

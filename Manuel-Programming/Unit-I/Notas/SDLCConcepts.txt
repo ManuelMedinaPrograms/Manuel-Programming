@@ -1,0 +1,24 @@
+SDLC
+
+The Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time possible. SDLC provides a well-structured flow of phases that help an organization to quickly produce high-quality software which is well-tested and ready for production use.
+
+It follows a plan that removes the typical pitfalls of software development projects. That plan starts by evaluating existing systems for deficiencies.
+Then, it defines the requirements of the new system by creating the software through its stages. SLDC can eliminate redundant rework and after-the-fact fixes (this reduces costs).
+
+REQUIREMENT'S ANALYSIS
+In this stage of work, the team identifies, gathers, and defines current problems, requirements, requests, and customer expectations related to the software application or service. 
+Defining software or product requirements gives teams the foresight and context needed to deliver and produce their software solutions.
+
+DESIGN
+The team makes software design decisions regarding the architecture and make of the software solution. This can involve creating design documents, coding guidelines, and discussing the tools, practices, runtimes, or frameworks that will help the team meet the software requirement specification and goals defined in the requirements gathering phase.
+
+IMPLEMENTATION
+In this phase, the database admin creates and imports the necessary data into the database. Programming languages are defined by requirements. Developers create the interface as per the coding guidelines and conduct unit testing.
+
+VERIFICATION
+In this stage, we test for defects and deficiencies. We fix those issues until the product meets the original specifications.
+In short, we want to verify if the code meets the defined requirements.
+
+MAINTENANCE
+This stage of work can involve reviewing, understanding, and monitoring network settings, infrastructure configurations, and performance of application services in production. This process can involve incident resolution or management in the course of any issues or changes made to impact a customer or user base. 
+

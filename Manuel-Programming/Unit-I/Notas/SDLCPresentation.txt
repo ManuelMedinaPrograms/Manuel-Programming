@@ -1,0 +1,45 @@
+LENGUAJES DE PROGRAMACIÓN A TRATAR
+JavaScript
+HTML (auxiliar)
+Note.gs (auxiliar)
+CCS (visual)
+Python*
+
+SOFTWARE DEVELOPMENT AND CYCLE
+Provide a predictable frramework of procedures designed to identify all requirements about functionality, cost rediability, and delivery schedule
+-Planning
+Project owner: Encargado de establecer un contacto con un cliente.
+Preguntas para definir las características del programa. ---> BÚSQUEDA DE SOLUCIONES QUE SE RELACIONEN A LA IDEA DEL CLIENTE
+
+Cliente: Persona que solicita el servicio.
+Rol - Project manager: Toma las ideas que el project owner generó con el cliente y desarrolla el software deseado (realista).
+Designer: Diseña la apariencia del software, de la página. Definene el comportamiento del programa. (UXUI*)?
+Desarrollador: Escribe el código del sistema.Implementa las ideas del cliente.
+
+Diseño (Tickets - Tareas asignadas a un desarrollador/Tienen series de números (Números para distinguir dificultad)!)
+Internal - Operaciones que va a tener elsistema.
+Software - El sistema en el que se estará manejando el código y demás
+Hardware - Almacenamiento en la nube
+
+DEVELOPMENT
+User Stories
+Requerimientos?*
+Dependiendo la dificultad tienen diferentes nombres.
+---> Se dividen los tickets!
+
+Sprints / Juntas para tomar tockets?
+
+TESTING
+Testers - Encargados de revisar los códigos para evitar bugs. En caso de encontrar alguno, este es reportado para su re elaboración.
+Sin errores pasa a Deployment.
+
+MAINTENANCE
+El flujo de información o de usuarios está creciendo.
+
+HERRAMIENTAS
+Scroom?*
+
+Software Development Security*
+
+
+

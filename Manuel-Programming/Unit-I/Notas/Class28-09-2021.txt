@@ -1,0 +1,41 @@
+SOFTWARE DEVELOPMENT MODELS
+V - MODEL (Predictivo)
+- V - Model is basically a waterfall that's been bent into a V shape.
+- Each of the tasks on the left corresponds to a task on the right with a similar level of abstraction.
+- Ayuda a verificar si lo que hicimos en el paso inicial es correcto.
+
+DATA! -------> BDUF - Big Design Up Front
+
+ITERATIVE MODELS (Adaptivo*)
+- Diseñar una aplicación, ver cómo se comporta y evaluarla de forma iterativa para una retroalimentación que ayude a optimizar el programa. El resultado es una demo, presentada al CEO (cliente). Si la prueba es exitosa se asignan más iteraciones para crear nuevas características. Finaliza cuando la aplicación está completamente lista.
+---> Sprint: Semanas?*
+- No se le presta atención a las cosas que toman tiempo. Se busca agilidad y eficiencia en el programa.
+! Scrum mvp Model - Diseñar un programa pequeño pero funcional a las necesidades del cliente.
+- Prototypes - 
+Relación entre el cliente y el programador en donde entienden los requerimientos y la función del programa.
+
+SPIRAL - Iterative
+Cuando el cliente no sabe lo que quiere o no son entendibles los requerimientos necesarios para el programa.
+
+
+--------------------------------------------------------
+Concepts
+HARD PROGRAMMING - Codear sin más y si hay buggs se resuelven al momento.
+
+PROGRAMMING SESSION 1
+.json - Cadenas de texto*
+
+	TIPOS DE SCOPE (Tipos de alcance)
+	SCOPE global
+	Se puede llamar a la variable en toda la extensión del programa.
+
+	SCOPE local
+	Las variables soloson llamadas en la función en particular en la que son declaradas y usadas.
+
+	VARIABLE Hosting (Var y functions only*)
+	Escan de todas las variables y asignar valores.
+
+VARIABLES
+var - Usado para declarar una variable global o local. Se puede inicializar con un valor.
+let - Usado para incializar un block scope, local variable. Puede ser incializada con un valor.
+const - Para declarar una block scoped o read only constant. Debe tener un valor previo.
